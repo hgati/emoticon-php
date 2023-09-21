@@ -1,5 +1,5 @@
 {
-    "name": "marufmax/emoticon-php",
+    "name": "hgati/emoticon-php",
     "type": "library",
     "keywords": ["emoji","emoticon","php-emoji","simily-php"],
     "description": "An Elegant Emoji/Emoticon package for PHP",
@@ -7,9 +7,8 @@
     "homepage": "https://github.com/marufmax/emoticon-php",
     "authors": [
         {
-            "name": "Maruf Alom",
-            "email": "desk.maruf@gmail.com",
-            "homepage": "http://marufalom.com"
+            "name": "Dennis",
+            "email": "cobays@gmail.com"
         }
     ],
     "require": {
