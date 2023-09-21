@@ -1,8 +1,8 @@
 <?php
 
-namespace MarufMax\Emoticon\Test;
+namespace Hgati\Emoticon\Test;
 
-use MarufMax\Emoticon\Emoticon;
+use Hgati\Emoticon\Emoticon;
 use PHPUnit\Framework\TestCase;
 
 class EmoticonTest extends TestCase

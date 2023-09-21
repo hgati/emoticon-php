@@ -16,7 +16,7 @@ just run `composer require marufmax/emoticon-php` in your project's directory
 ## Usages Example
  
 ```php
-    $emoji = new \MarufMax\Emoticon\Emoticon();
+    $emoji = new \Hgati\Emoticon\Emoticon();
     
     $emoji->random();  // will display an random emoji ==> 🍕️ 
     $emoji->get('heart'); // it will return an emoji with heart ❤, note: this also support with colon 

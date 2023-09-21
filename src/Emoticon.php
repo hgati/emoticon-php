@@ -1,6 +1,6 @@
 <?php
 
-namespace MarufMax\Emoticon;
+namespace Hgati\Emoticon;
 
 class Emoticon
 {
