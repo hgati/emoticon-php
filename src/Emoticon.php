@@ -63,7 +63,8 @@ class Emoticon
      */
     public function random()
     {
-        return $this->list[array_rand($this->list)];
+        $a=[]; foreach($this->list as  $k=>$v){ if(strpos($k, 'flag-')) continue; $a[$k]=$v; } // except "flag-" emoji
+        return $this->list[array_rand($a)];
     }
 
     protected function stripColons(string $item): string
