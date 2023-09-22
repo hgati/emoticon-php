@@ -3,7 +3,7 @@
 ## Installation
 You need [PHP](https://php.net) and [Composer](https://getcomposer.org/download/) before installing this package. 
 
-just run `composer require hgati/emoticon-php` in your project's directory
+just run `composer require hgati/emoticon-php:dev-master` in your project's directory
 
 ## Usages Example
  
