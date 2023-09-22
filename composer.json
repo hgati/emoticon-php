@@ -16,12 +16,12 @@
     },
     "autoload": {
         "psr-4": {
-            "MarufMax\\Emoticon\\": "src"
+            "Hgati\\Emoticon\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "MarufMax\\Emoticon\\Test\\": "tests"
+            "Hgati\\Emoticon\\Test\\": "tests"
         }
     },
     "require-dev": {
